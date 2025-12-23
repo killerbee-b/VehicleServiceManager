@@ -112,7 +112,7 @@ A comprehensive desktop application for managing vehicle service operations, bui
 - WinForms.DataVisualization
 
 ### Steps
-1. Clone the repository (git clone https://github.com/yourusername/VehicleServiceManager.git)
+1. Clone the repository (git clone https://github.com/killerbee-b/VehicleServiceManager.git)
 2. Open `VehicleServiceManager.sln` in Visual Studio
 3. Restore NuGet packages (automatic)
 4. Build and run (F5)
