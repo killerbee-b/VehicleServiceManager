@@ -94,7 +94,6 @@ A comprehensive desktop application for managing vehicle service operations, bui
 - One-to-Many and Many-to-Many relationships
 - LINQ queries and aggregations
 - Lambda expressions
-- Async/Await operations
 
 ---
 
